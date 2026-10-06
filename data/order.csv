@@ -1,0 +1,14 @@
+order_id,order_date,city,category,quantity,unit_price,status
+ORD-001,2026-10-03,Karachi,Electronics,2,1500.00,completed
+ORD-002,2026-10-03,Lahore,Clothing,3,800.00,completed
+ORD-003,2026-10-03,Islamabad,Books,1,1200.00,pending
+ORD-004,2026-10-03,Karachi,Groceries,5,300.00,shipped
+ORD-005,2026-10-03,Lahore,Electronics,1,5000.00,completed
+ORD-006,2026-10-03,Islamabad,Clothing,2,1500.00,completed
+ORD-007,2026-10-03,Multan,Books,4,600.00,completed
+ORD-008,2026-10-03,Karachi,Groceries,0,200.00,completed
+ORD-009,2026-10-03,Lahore,Electronics,2,-500.00,pending
+ORD-010,2026-10-03,Islamabad,Clothing,1,1500.00,unknown
+ORD-011,2026-10-03,Multan,Books,3,600.00,completed
+ORD-012,2026-10-03,Karachi,Groceries,2,400.00,completed
+ORD-001,2026-10-03,Karachi,Electronics,2,1500.00,completed
